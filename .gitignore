@@ -1,0 +1,25 @@
+# android files
+*.apk
+*.ap_
+*/bin
+*/gen
+*/obj
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# gitignore
+.history
+.DS_Store
+
+# files to be ignored if the project is built directly from example scene
+*.csproj
+plugin/Library
+plugin/ProjectSettings
+plugin/Temp
+plugin/plugin-csharp.sln
+plugin/plugin.sln
+plugin/plugin.userprefs
